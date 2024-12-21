@@ -5,6 +5,8 @@ The *ResearchGrantDAO* is a decentralized platform designed to streamline the fu
 
 ## Contract Address
 0x9c1563c70fee7D1e194D56b94eeB6De843eccA29
+![image](https://github.com/user-attachments/assets/692940bf-ca56-4973-ac00-738fc57ba256)
+
 
 ## Project Vision
 The vision of this project is to empower researchers by providing a transparent, decentralized, and efficient mechanism to secure funding for their projects. The DAO aims to democratize research funding, encouraging collaboration and innovation in various scientific fields.
